@@ -45,3 +45,4 @@ Elasticsearch
     ```bash
     docker-compose up
     ```
+![Real-Time Yelp Data Streaming and Analysis](https://github.com/aravinddudam/Real-Time-Yelp-Data-Streaming-and-Analysis/assets/122600985/478db5ad-9954-4689-9564-07c7b6211fb8)
